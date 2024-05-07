@@ -1,4 +1,4 @@
-#include "lib_24CW.h"
+#include "24CW.h"
 #include <Wire.h>
 
 lib_24CW::lib_24CW()
